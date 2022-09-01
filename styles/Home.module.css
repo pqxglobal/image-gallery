@@ -1,0 +1,19 @@
+.Home {
+  font-size: 38px;
+  font-weight: bold;
+  color: rgb(166, 207, 113);
+}
+
+.square {
+  
+  width: 232px;
+  height: 147px;
+  border-radius: 20px;
+
+  background: radial-gradient(50% 50% at 50% 50%, #484ED9 0%, #EA143A 100%);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
